@@ -1,0 +1,13 @@
+{
+  "name": "com.bennykok.damage-display",
+  "displayName": "Damage Display",
+  "version": "1.0.0",
+  "description": "Simple Damage display",
+  "dependencies": {
+    
+  },
+  "author": {
+        "name": "BennyKok",
+        "url": "https://github.com/BennyKok"
+   }
+}
